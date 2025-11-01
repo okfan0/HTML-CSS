@@ -1,0 +1,11 @@
+/* di vào sẽ thay đổi */
+/* p:hover {
+  color: red;
+  font-size: 18px;
+} */
+
+/* click vaof sẽ thay đổi */
+p:active {
+  color: red;
+  font-size: 18px;
+}

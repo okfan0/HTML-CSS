@@ -1,8 +1,18 @@
-* {
+/* * {
   color: red;
   font-size: 24px;
 }
 h2.demo {
   color: aquamarine;
   font-size: 30px;
+} */
+
+/* p,
+.demo,
+#title {
+  color: red;
+} */
+
+.demo.demo1 {
+  color: rgb(7, 224, 97);
 }

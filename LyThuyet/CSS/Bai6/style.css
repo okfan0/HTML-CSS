@@ -1,0 +1,29 @@
+/* div p {
+  color: blue;
+} */
+
+/* div.main {
+  background: #777;
+} */
+
+div > p {
+  color: red;
+}
+
+block p {
+  color: bisque;
+  font-size: 30px;
+}
+
+/* đứng sát ngay sau + */
+h1 + h2 {
+  color: aquamarine;
+}
+
+h2 + .demo {
+  color: blue;
+}
+
+h1 ~ h3 {
+  color: blueviolet;
+}

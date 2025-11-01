@@ -1,0 +1,10 @@
+body {
+  background-image: url(./img/Screenshot\ 2025-10-17\ 204008.png);
+}
+h2 {
+  /* opacity: 30%; */
+  /* display: none; */
+  /* visibility: hidden; ẩn */
+  visibility: visible;
+  background-color: blue;
+}

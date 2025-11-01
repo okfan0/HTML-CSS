@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(23, 203, 170);
+  /* Kiểu chữ*/
+  font-style: italic;
+  /*font chữ*/
+  font-family: Arial, Helvetica, sans-serif;
+  /*Chuyển hoa thường*/
+  text-transform: uppercase;
+  /* căn giữa */
+  text-align: center;
+  /*phông size*/
+  font-size: small;
+}

@@ -4,8 +4,68 @@
   font-size: 18px;
 } */
 
-/* click vaof sẽ thay đổi */
+/* tác dụng lên selector  khi giư chuột
 p:active {
   color: red;
   font-size: 18px;
+} */
+
+/* chọn thẻ a có liên kết chưa click vào
+.click:link {
+  color: chocolate;
+} */
+
+/* chọn thẻ a có liên kết click vào */
+/* .click:visited {
+  color: chocolate;
+} */
+
+/* chọn các thẻ div không có nội dung
+.div_elm:empty {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
 }
+
+/* chọn các thẻ div bình thường */
+/* .div_elm {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+} */
+
+/* #home: target - Chọn thẻ có id= "home" khi trên các đường link tương ứng
+h2:target {
+  color: rgb(62, 29, 230);
+} */
+
+/* p:first-child: Chọn các thẻ <p> là thẻ con đầu tiên;
+p:last-child: Chọn các thẻ <p> là thẻ con cuối cùng;
+p:nth-child(n): Chọn các thẻ <p> là thẻ con thứ n từ trên xuống;
+p:nth-last-child(n): Chọn các thẻ <p> là thẻ con thứ n từ dưới lên;
+p:only-child: Chọn các thẻ <p> là thẻ con duy nhất; */
+
+/* p:first-child {
+  color: rebeccapurple;
+  font-size: 35px;
+} */
+
+/* p:last-child {
+  color: red;
+  font-size: 25px;
+} */
+
+/* p:nth-child(2) {
+  color: rebeccapurple;
+  font-size: 25px;
+} */
+
+/* p:nth-last-child(even) {
+  color: rebeccapurple;
+  font-size: 25px;
+} */
+
+/* p:only-child {
+  color: rebeccapurple;
+  font-size: 25px;
+} */
